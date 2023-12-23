@@ -16,14 +16,14 @@ Same as Homework0, only with the comparator implemented in a separate class
 
 # Homework1
 Create a class for client description.
-   Place in the class fields to describe the client (registration date, name, age and other fields at your discretion).
-   Customer class should contain a field-collection with orders of this customer - it is a kind of customer's order basket.
-   Order class should contain fields for order description (price, description and other fields are possible).
-   Create several customers.
-   Create several orders for each customer and place them in a field-collection for orders.
-   Create a collection of Mar type and fill it with pairs "customer passport number" -> "customer class object".
-   Passport numbers can be stored as constants in the interface created for this purpose.
-   Loop through the collection and display:
+ * Place in the class fields to describe the client (registration date, name, age and other fields at your discretion).
+ * Customer class should contain a field-collection with orders of this customer - it is a kind of customer's order basket.
+ * Order class should contain fields for order description (price, description and other fields are possible).
+ * Create several customers.
+ * Create several orders for each customer and place them in a field-collection for orders.
+ * Create a collection of Mar type and fill it with pairs "customer passport number" -> "customer class object".
+ * Passport numbers can be stored as constants in the interface created for this purpose.
+ * Loop through the collection and display:
  * - all key-value pairs, using Map. Entry<K, V> entry : map.entrySet()
  * - all key-value pairs, using iterator
  * - all keys, using map.keySet()
