@@ -2,7 +2,7 @@ package com.teachmeskills.lesson16.hw.homework1.runner;
 
 import com.teachmeskills.lesson16.hw.homework0.services.Order;
 import com.teachmeskills.lesson16.hw.homework1.services.Client;
-import com.teachmeskills.lesson16.hw.homework1.services.Passport;
+import com.teachmeskills.lesson16.hw.homework1.constants.Passport;
 /*
 Создать класс для описания клиента.
  * Поместить в класс поля для описания клиента (дата регистрации, имя, возраст и другие поля по усмотрению).
